@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Interfaces\ISearchable.cs" />
+    <Compile Include="Models\Book.cs" />
     <Compile Include="Models\LibraryItem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
