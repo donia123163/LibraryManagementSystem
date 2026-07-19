@@ -46,6 +46,8 @@
     <Compile Include="Interfaces\ISearchable.cs" />
     <Compile Include="Models\Book.cs" />
     <Compile Include="Models\LibraryItem.cs" />
+    <Compile Include="Models\Member.cs" />
+    <Compile Include="Models\PremiumMember.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
