@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Interfaces\ISearchable.cs" />
     <Compile Include="Models\Book.cs" />
+    <Compile Include="Models\BorrowRecord.cs" />
     <Compile Include="Models\LibraryItem.cs" />
     <Compile Include="Models\Member.cs" />
     <Compile Include="Models\PremiumMember.cs" />
